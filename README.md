@@ -41,10 +41,12 @@ I’m a dedicated data enthusiast with a robust background in Power BI. With sig
 
 
 
-## 🌐 For Contacts and Business:
+## 🌐 For Contact and Business:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/herradimohammed/) 
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammed-herradi) 
 [![Upwork](https://img.shields.io/badge/Upwork-%2300A3EC.svg?logo=upwork&logoColor=white)](https://www.upwork.com/) 
 [![Fiverr](https://img.shields.io/badge/Fiverr-%2300B22D.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/)
 
+Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
