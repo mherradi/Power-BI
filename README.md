@@ -1,4 +1,4 @@
-# 📊 Power BI Portfolio Projects
+# 📊 Power BI Portfolio 
 
 Welcome to my Power BI Portfolio! Here you will find a collection of Power BI projects and dashboards that , showcasing my skills in data analysis ,  and expertise in data visualization, business intelligence, and analytics using Power BI.
 
