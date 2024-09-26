@@ -38,7 +38,7 @@ I’m a dedicated data enthusiast with a robust background in Power BI. With sig
    Breaks down employee demographics, performance, and retention trends.  
    [View Project](#)
 
-
+Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
 
 ## 🌐 For Contact and Business:
@@ -49,4 +49,4 @@ If you have any questions, feedback, or collaboration opportunities, please feel
 [![Upwork](https://img.shields.io/badge/Upwork-%2300A3EC.svg?logo=upwork&logoColor=white)](https://www.upwork.com/) 
 [![Fiverr](https://img.shields.io/badge/Fiverr-%2300B22D.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/)
 
-Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
+
