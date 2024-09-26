@@ -11,7 +11,8 @@ This dashboard provides a comprehensive analysis of marketing campaigns and purc
 ![Market Mindz Project_page-0003](https://github.com/user-attachments/assets/dafbe250-2710-4bb0-9880-346e568f573c)
 
 - 🛍️ **Buyers Composition**: Analyzes customer demographics and their impact on sales.
-![Market Mindz Project_page-0004](https://github.com/user-attachments/assets/d73e3b99-cce4-47bd-a482-e535501842e2)
+![Market Mindz Project_page-0004](https://github.com/user-attachments/assets/02025b8e-b598-4c48-93e3-a66cb3b7a070)
+
 
 - 💡 **Purchase Drivers**: Identifies the key factors influencing purchase decisions.
 ![Market Mindz Project_page-0005](https://github.com/user-attachments/assets/aa485fa8-d0d0-4e29-b989-36b771abed93)
