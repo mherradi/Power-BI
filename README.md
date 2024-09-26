@@ -12,9 +12,10 @@ Welcome to my Power BI Portfolio! Here you will find a collection of Power BI pr
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=flat&logo=microsoft-powerpoint&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-%234285F4.svg?style=flat&logo=google-sheets&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-%2300B22D.svg?style=flat&logo=csv&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
-![CSV](https://img.shields.io/badge/CSV-%2300B22D.svg?style=flat&logo=csv&logoColor=white)
+
 
 ## About Me
 
