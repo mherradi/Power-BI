@@ -30,10 +30,14 @@
 ![Market Mindez](https://github.com/user-attachments/assets/a43efe4f-3187-4a70-9ed2-af72f4bfe7bb)
 
 
-2. **🏡 Austin Housing Market Report**  
-   Analyzes trends in the Austin real estate market.  
-   [View Project](#)
+## [2. **🏡 Austin Housing Market Report**  ](https://github.com/M-Herradi/Power-BI-Portfolio/tree/53b02f4af5910da700934c9afcdfa6d11b42158f/Austing%20Housing%20Market%20Report)
+&nbsp;&nbsp;&nbsp;This report provides an in-depth analysis of the housing market in Austin, Texas, focusing on key property features, distribution patterns, and customer search behavior. The project was designed to help real estate professionals and potential buyers make informed decisions.
+&nbsp;&nbsp;
 
+![Austin House Pricing](https://github.com/user-attachments/assets/d966ae72-f302-417d-afd3-ad1658b87b1a)
+
+
+ 
 3. **👨‍💼 HR Analytics Report**  
    Breaks down employee demographics, performance, and retention trends.  
    [View Project](#)
