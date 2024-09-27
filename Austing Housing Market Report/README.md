@@ -3,7 +3,7 @@
 
 
 ### 🔗 Dashboard Link  :
-
+https://app.powerbi.com/reportEmbed?reportId=072bef80-f198-46e8-b9e1-680ab223505e&autoAuth=true&ctid=2ec11419-847c-4e29-8815-7f5b2fed9339
 
 ### Problem Statement
 
