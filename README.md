@@ -1,6 +1,6 @@
 # 📊 Power BI Portfolio 
 
-Welcome to my Power BI Portfolio! Here you will find a collection of Power BI projects and dashboards that , showcasing my skills in data analysis ,  and expertise in data visualization, business intelligence, and analytics using Power BI.
+&nbsp;&nbsp;&nbsp;Welcome to my Power BI Portfolio! Here you will find a collection of Power BI projects and dashboards that , showcasing my skills in data analysis ,  and expertise in data visualization, business intelligence, and analytics using Power BI.
 
 ## 🛠️ Tools and Platforms :
 
@@ -19,7 +19,7 @@ Welcome to my Power BI Portfolio! Here you will find a collection of Power BI pr
 
 ## About Me
 
-I’m a dedicated data enthusiast with a robust background in Power BI. With significant experience in converting raw data into actionable insights, I specialize in building interactive dashboards and empowering businesses to make informed, data-driven decisions. This portfolio highlights my expertise in Power BI and my ability to visually present complex data in a clear and impactful way.
+&nbsp;&nbsp;&nbsp;I’m a dedicated data enthusiast with a robust background in Power BI. With significant experience in converting raw data into actionable insights, I specialize in building interactive dashboards and empowering businesses to make informed, data-driven decisions. This portfolio highlights my expertise in Power BI and my ability to visually present complex data in a clear and impactful way.
 
 
 ## [1. **📈 Market Analysis Dashboard**](https://github.com/M-Herradi/Power-BI-Portfolio/tree/main/Market%20Analysis%20Dashboard)
