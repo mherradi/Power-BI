@@ -30,15 +30,11 @@ I’m a dedicated data enthusiast with a robust background in Power BI. With sig
 ![Market Mindez](https://github.com/user-attachments/assets/a43efe4f-3187-4a70-9ed2-af72f4bfe7bb)
 
 
-2. **☕ Coffee Sales Infographic**  
-   Visualizes coffee sales data with an emphasis on sales trends and demographics.  
-   [View Project](#)
-
-3. **🏡 Austin Housing Market Report**  
+2. **🏡 Austin Housing Market Report**  
    Analyzes trends in the Austin real estate market.  
    [View Project](#)
 
-4. **👨‍💼 HR Analytics Report**  
+3. **👨‍💼 HR Analytics Report**  
    Breaks down employee demographics, performance, and retention trends.  
    [View Project](#)
 
