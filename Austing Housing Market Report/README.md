@@ -38,8 +38,6 @@ https://app.powerbi.com/reportEmbed?reportId=072bef80-f198-46e8-b9e1-680ab223505
 
 
 
-
-
 Through these comprehensive insights, the Austin Housing Market Report serves as a valuable tool 🛠️ for anyone looking to gain a better understanding of the Austin real estate market. 
 
 ---
