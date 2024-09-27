@@ -23,7 +23,8 @@ I’m a dedicated data enthusiast with a robust background in Power BI. With sig
 
 
 ## [1. **📈 Market Analysis Dashboard**](https://github.com/M-Herradi/Power-BI-Portfolio/tree/main/Market%20Analysis%20Dashboard)
-   Provides insights into campaign performance, buyer composition, and purchase drivers.  
+
+   The objective of this project is to provide a comprehensive market analysis by evaluating campaign performance, analyzing customer composition, and identifying purchase drivers. This will enable data-driven decisions to improve marketing ROI, better target the right customer segments, and enhance overall sales performance.
 
 
 2. **☕ Coffee Sales Infographic**  
