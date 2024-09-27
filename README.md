@@ -34,7 +34,8 @@
 &nbsp;&nbsp;&nbsp;This report provides an in-depth analysis of the housing market in Austin, Texas, focusing on key property features, distribution patterns, and customer search behavior. The project was designed to help real estate professionals and potential buyers make informed decisions.
 &nbsp;&nbsp;
 
-![Austin House Pricing](https://github.com/user-attachments/assets/d966ae72-f302-417d-afd3-ad1658b87b1a)
+![Austin House Pricing](https://github.com/user-attachments/assets/01085844-6be3-4e39-84e2-87dd166229d6)
+
 
 
  
