@@ -27,7 +27,8 @@
 &nbsp;&nbsp;&nbsp;The objective of this project is to provide a comprehensive market analysis by evaluating campaign performance, analyzing customer composition, and identifying purchase drivers. This will enable data-driven decisions to improve marketing ROI, better target the right customer segments, and enhance overall sales performance.
 &nbsp;&nbsp;
    
-![Market Mindez](https://github.com/user-attachments/assets/a43efe4f-3187-4a70-9ed2-af72f4bfe7bb)
+![Market Mindz Project_page-0003](https://github.com/user-attachments/assets/cf681236-9aff-4c64-9910-38d1deb02f28)
+
 
 
 ## [2. **🏡 Austin Housing Market Report**  ](https://github.com/M-Herradi/Power-BI-Portfolio/tree/main/Austing%20Housing%20Market%20Report)
