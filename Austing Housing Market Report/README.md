@@ -13,7 +13,8 @@ https://app.powerbi.com/reportEmbed?reportId=072bef80-f198-46e8-b9e1-680ab223505
 
 &nbsp;&nbsp;We break down the characteristics of homes in Austin, including the count of different home types, build years, and unique property features. This helps stakeholders understand the diversity of the housing market and identify trends in home availability.
 
-![Screenshot 1](https://github.com/user-attachments/assets/94cbe04a-d104-43a2-a646-b11ce5abc398)
+![Housing Market Report-2](https://github.com/user-attachments/assets/6ef68391-903a-49ec-965a-32d65aae7e6d)
+
 
 
 -  **🗺️ Property Distribution & Pricing:**
