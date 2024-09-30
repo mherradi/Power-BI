@@ -38,12 +38,13 @@
 ![Housing Market Report-2](https://github.com/user-attachments/assets/6ef68391-903a-49ec-965a-32d65aae7e6d)
 
 
+## [3. **🧑‍💼 HR People Analytics Report**  ](https://github.com/mherradi/Power-BI/tree/main/HR%20People%20Analytics%20Report)
 
+&nbsp;&nbsp;&nbsp;This powerful tool provides HR professionals with a comprehensive overview of workforce dynamics, enabling data-driven decision-making through visual insights. The dashboard is designed to simplify the exploration of critical HR metrics
 
- 
-3. **👨‍💼 HR Analytics Report**  
-   Breaks down employee demographics, performance, and retention trends.  
-   [View Project](#)
+![HR People Analytics Report_page-0003](https://github.com/user-attachments/assets/1654ab7a-6672-446e-bce8-2c0ccc985f71)
+
+   
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
