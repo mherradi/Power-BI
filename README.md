@@ -44,7 +44,7 @@
 
 ![HR People Analytics Report_page-0003](https://github.com/user-attachments/assets/1654ab7a-6672-446e-bce8-2c0ccc985f71)
 
-## [4. **🧺 Amazon Market Dashboard**  ]()
+## [4. **📦 Amazon Market Dashboard**  ](https://github.com/mherradi/Power-BI/tree/main/Amazon%20Sales%20Dashboard)
 
 &nbsp;&nbsp;&nbsp;This project features a comprehensive analysis of the Amazon Sales Market, created using Power BI. The dashboard provides critical insights into sales performance, customer behavior, and return analysis.
 
