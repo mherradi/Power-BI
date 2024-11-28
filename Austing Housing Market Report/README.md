@@ -22,7 +22,7 @@
 
 &nbsp;&nbsp;By mapping the distribution of properties across Austin and applying a price filter, the report visually represents property locations relative to their market value. This allows for a clear view of how price varies across neighborhoods and can assist buyers in narrowing down their options based on budget.
 
-![Screenshot 2](https://github.com/user-attachments/assets/3e628ba3-7d58-487b-bc8e-4c678558f464)
+![School pdf](https://github.com/user-attachments/assets/f2667181-6e47-47b0-8fff-49f14ee2bab1)
 
 -  **🎓 Schools and Nearby Amenities:**
 
