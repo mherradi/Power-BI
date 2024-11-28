@@ -3,7 +3,8 @@
 
 
 ### 🔗 Dashboard Link  :
-https://app.powerbi.com/reportEmbed?reportId=072bef80-f198-46e8-b9e1-680ab223505e&autoAuth=true&ctid=2ec11419-847c-4e29-8815-7f5b2fed9339
+[https://app.powerbi.com/reportEmbed?reportId=072bef80-f198-46e8-b9e1-680ab223505e&autoAuth=true&ctid=2ec11419-847c-4e29-8815-7f5b2fed9339
+](https://app.powerbi.com/view?r=eyJrIjoiOGMyOWI0NjEtMDI2YS00NGNhLWJhMDMtNWIzMmM3MDMzZDRjIiwidCI6IjU2Mjg3NjYwLTIzYzMtNDRjNy05ODhkLWE1NzY1OTg3Njg3YyJ9)
 
 ### Problem Statement
 
