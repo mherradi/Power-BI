@@ -2,7 +2,8 @@
 # 📊 Market Analysis Dashboard
 
 ### 🔗 Dashboard Link :
-https://app.powerbi.com/reportEmbed?reportId=e4f3d51e-b930-44f6-99e9-46c39cd7baa1&autoAuth=true&ctid=2ec11419-847c-4e29-8815-7f5b2fed9339
+[https://app.powerbi.com/reportEmbed?reportId=e4f3d51e-b930-44f6-99e9-46c39cd7baa1&autoAuth=true&ctid=2ec11419-847c-4e29-8815-7f5b2fed9339
+](https://app.powerbi.com/view?r=eyJrIjoiY2E0NTZiNjktMzBmYy00MzMyLWJkZjgtMDA1OWZkMTUxMTAwIiwidCI6IjU2Mjg3NjYwLTIzYzMtNDRjNy05ODhkLWE1NzY1OTg3Njg3YyJ9)
 
 ### Problem Statement
 
