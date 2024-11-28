@@ -35,7 +35,8 @@
   
 &nbsp;&nbsp;By analyzing the keywords used by potential buyers during their property searches, the report highlights patterns in customer behavior. This insight helps real estate professionals optimize their listings to better match what customers are actively searching for.
 
-![Screenshot 4](https://github.com/user-attachments/assets/57d7cd1f-27d9-4303-8a52-6fcd1c148181)
+![Housing Market Report (1)_page-0001](https://github.com/user-attachments/assets/5e60b0f7-1f33-4d82-8ce4-53d9ec4fdfa2)
+
 
 
 
