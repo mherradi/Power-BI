@@ -28,7 +28,8 @@
 
 &nbsp;&nbsp;The report provides valuable insights into the proximity of schools to the properties, which is a key factor for many buyers. Understanding the availability and quality of schools can greatly influence purchasing decisions, especially for families.
 
-![Screenshot 3](https://github.com/user-attachments/assets/69ec53ef-e512-4d02-94d0-0f0ee7e2081f)
+![School pdf](https://github.com/user-attachments/assets/c16a3098-f31a-4e8f-8c14-fe1dfde7dd7c)
+
 
 
 -  **🔍 Customer Search Behavior Analysis:**
